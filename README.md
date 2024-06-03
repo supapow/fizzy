@@ -1,2 +1,2 @@
 # fizzy
-Product feedback app
+Product feedback app - mvp
